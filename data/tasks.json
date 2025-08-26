@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1756189904828,
+    "text": "Finish CS50 final project",
+    "done": true,
+    "tag": "study",
+    "due": null,
+    "priority": "low",
+    "timestamp": "2025-08-26T06:31:44.828Z"
+  },
+  {
+    "id": 1756189970883,
+    "text": "Take class of CS50 AI",
+    "done": false,
+    "tag": "study",
+    "due": null,
+    "priority": "medium",
+    "timestamp": "2025-08-26T06:32:50.883Z"
+  },
+  {
+    "id": 1756190030158,
+    "text": "Buy Toothpaste of sensodine",
+    "done": true,
+    "tag": "grocery",
+    "due": null,
+    "priority": "low",
+    "timestamp": "2025-08-26T06:33:50.158Z"
+  },
+  {
+    "id": 1756191173964,
+    "text": "Learn Guitar for 30 minute",
+    "done": false,
+    "tag": "leisure",
+    "due": "2025-02-22",
+    "priority": "medium",
+    "timestamp": "2025-08-26T06:52:53.964Z"
+  }
+]
