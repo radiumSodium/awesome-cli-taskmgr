@@ -9,21 +9,12 @@
     "timestamp": "2025-08-26T06:31:44.828Z"
   },
   {
-    "id": 1756189970883,
-    "text": "Take class of CS50 AI",
-    "done": false,
-    "tag": "study",
-    "due": null,
-    "priority": "medium",
-    "timestamp": "2025-08-26T06:32:50.883Z"
-  },
-  {
     "id": 1756190030158,
-    "text": "Buy Toothpaste of sensodine",
+    "text": "Buy Grocery item for home",
     "done": true,
     "tag": "grocery",
     "due": null,
-    "priority": "low",
+    "priority": "high",
     "timestamp": "2025-08-26T06:33:50.158Z"
   },
   {
