@@ -2,7 +2,7 @@
   {
     "id": 1,
     "text": "Finish CS50 final project",
-    "done": true,
+    "done": false,
     "tag": "study",
     "due": null,
     "priority": "low",
@@ -16,5 +16,32 @@
     "due": null,
     "priority": "high",
     "timestamp": "2025-08-26T06:33:50.158Z"
+  },
+  {
+    "id": 3,
+    "text": "Learn Guitar for 30 minute",
+    "done": false,
+    "tag": "leisure",
+    "due": "2025-02-22",
+    "priority": "medium",
+    "timestamp": "2025-08-26T07:23:06.652Z"
+  },
+  {
+    "id": 4,
+    "text": "Build a task manager in cmd",
+    "done": false,
+    "tag": "coding",
+    "due": "2025-08-25",
+    "priority": "low",
+    "timestamp": "2025-08-26T07:40:57.690Z"
+  },
+  {
+    "id": 5,
+    "text": "Build a task manager in cmd updated",
+    "done": false,
+    "tag": "coding",
+    "due": "2025-08-25",
+    "priority": "low",
+    "timestamp": "2025-08-26T07:54:40.452Z"
   }
 ]
